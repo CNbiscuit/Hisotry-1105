@@ -19,7 +19,7 @@ The presence of camels in the U.S is connected to the immigration of Arab men to
 
 
 {% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
+  image-path="images/camels1.jpg"
   image-position="right"
   image-width="50%"
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
