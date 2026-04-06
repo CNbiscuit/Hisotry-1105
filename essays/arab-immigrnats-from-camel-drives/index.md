@@ -9,8 +9,7 @@ summary: One sentence summary of your project
 
 # Arab Immigrants and the Camel Drives
 
-Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
-100-150 words
+The presence of camels in the U.S is connected to the immigration of Arab men to the U.S Southwest as camel handlers, though soon after the projects spearheaded by the War Department fell apart in roughly 10 years the men who came to the U.S would have to figure out what their plans would be. A notable example is that of Hadji Ali (AKA: Philip Tedro, Hi Jolly) who had to change his job soon after the Wagon Road was disbanded due to a loss of funding and other pack animals not getting along well with camels. The stories of Arab immigrants who came to handle and teach Americans how to work with them all take different forms with some deciding to stay, leave, or make consistent trips.
 
 ## Subheader 1
 
