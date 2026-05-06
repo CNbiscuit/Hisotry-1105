@@ -2,9 +2,9 @@
 title: "Arab Immigrants and the Camel Drives"
 author: Your name
 layout: scrollstory
-header-image: images/Raton_1882.jpg
-thumbnail: images/Raton_1882.jpg
-summary: One sentence summary of your project 
+header-image: images/camels1.jpg
+thumbnail: images/camels1.jpg
+summary: Stories of immigration and logistics 
 ---
 
 # Arab Immigrants and the Camel Drives
