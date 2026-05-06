@@ -13,7 +13,7 @@ The presence of camels in the U.S is connected to the immigration of Arab men to
 
 ## Relationship of experiments in logistics and migratory work:
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+This story starts with officials and wealthy business owners thinking about how to optimize logistics in the newly colonized west and more efficiently transport cargo. In Virginia City (presumably Nevada) the ground was so sandy and the weather so hot that vehicles couldn’t have surrounding infrastructure built and mules couldn't withstand the climate at all. After camels were brought over, mostly from Asia, significant improvements were seen as they needed minimal effort to be properly hydrated and fed, being able to eat brush and weeds while carrying 200 to 300 pounds of ore perfectly fine. Jefferson Davis, giving a report on the usage of camels in America to the United States Secretary of War, found the regions in which camels were commonly used to be “corresponding closely” to the southwest including “portions of Texas, New Mexico and California…”. And Edward Beale (with his own camel caravan) mentioned going all the way from Arkansas, through New Mexico, and reaching the Colorado river. Where this intersects with migratory work begins with Davis saying: “As to the difficulty of managing the camel… none but an Arab could do it…” as handlers were included alongside the camels that came from Asia.[^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
