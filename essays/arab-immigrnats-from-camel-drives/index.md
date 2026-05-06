@@ -23,7 +23,7 @@ This story starts with officials and wealthy business owners thinking about how 
   image-path="images/newspaper1.jpg"
   image-position="right"
   image-width="50%"
-  caption="The lack of efficacy of mules and inability of vehicles to traverse the unforgiving landscape pushed mine operaters to find a new solution"
+  caption="The lack of efficacy of mules and inability of vehicles to traverse the unforgiving landscape pushed mine operaters to find a new solution."
 %}
 
 ## Subheader 2
