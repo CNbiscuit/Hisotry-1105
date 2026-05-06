@@ -9,7 +9,7 @@ summary: One sentence summary of your project
 
 # Arab Immigrants and the Camel Drives
 
-The presence of camels in the U.S is connected to the immigration of Arab men to the U.S Southwest as camel handlers, though soon after the projects spearheaded by the War Department fell apart in roughly 10 years the men who came to the U.S would have to figure out what their plans would be. A notable example is that of Hadji Ali (AKA: Philip Tedro, Hi Jolly) who had to change his job soon after the Wagon Road was disbanded due to a loss of funding and other pack animals not getting along well with camels. The stories of Arab immigrants who came to handle and teach Americans how to work with them all take different forms with some deciding to stay, leave, or make consistent trips.
+The presence of camels in the U.S is connected to the immigration of Arab men to the U.S Southwest as camel handlers, though soon after the projects spearheaded by the War Department fell apart in roughly 10 years and the men who came to the U.S would have to figure out what their plans would be. A notable example is that of Hadji Ali (AKA: Philip Tedro, Hi Jolly) who had to change his job soon after the Wagon Road was disbanded due to a loss of funding and other pack animals not getting along well with camels. The stories of Arab immigrants who came to handle and teach Americans how to work with them all take different forms with some happening here in New Mexico.
 
 ## Subheader 1
 
