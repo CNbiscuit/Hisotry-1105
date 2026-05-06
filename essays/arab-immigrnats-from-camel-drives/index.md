@@ -23,14 +23,8 @@ This story starts with officials and wealthy business owners thinking about how 
   image-path="images/newspaper1.jpg"
   image-position="right"
   image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
+  caption="The lack of efficacy of mules and inability of vehicles to traverse the unforgiving landscape pushed mine operaters to find a new solution"
 %}
-
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
-
-You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
-
-[^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 ## Subheader 2
 
