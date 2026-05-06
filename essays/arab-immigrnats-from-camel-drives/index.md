@@ -11,7 +11,7 @@ summary: One sentence summary of your project
 
 The presence of camels in the U.S is connected to the immigration of Arab men to the U.S Southwest as camel handlers, though soon after the projects spearheaded by the War Department fell apart in roughly 10 years and the men who came to the U.S would have to figure out what their plans would be. A notable example is that of Hadji Ali (AKA: Philip Tedro, Hi Jolly) who had to change his job soon after the Wagon Road was disbanded due to a loss of funding and other pack animals not getting along well with camels. The stories of Arab immigrants who came to handle and teach Americans how to work with them all take different forms with some happening here in New Mexico.
 
-## Subheader 1
+## Relationship of experiments in logistics and migratory work:
 
 150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
 
