@@ -30,7 +30,7 @@ This story starts with officials and wealthy business owners thinking about how 
 
 Hadji Ali, like the other men in his group, were recruited in the Ottoman empire and brought to the U.S alongside camels, landing shore in 1856. From there, he worked in a variety of jobs sometimes with the Army and sometimes not. Some of the jobs he had include but are not limited to: camel driver, delivery driver, Army scout, saddle maker, prospector, miner, and so on. His work with the Army was an on and off again ordeal and because of this never got a military pension only exacerbating his poverty in old age. Hadji Ali is an example of how the colonialism of the U.S west had employed underpaid racialized immigrants as a means of expanding the colonial project. [^youchoose2]
 
-[^youchoose2]:Razek, R. D. *The Other Settlers: Arabs in the American West.* UC Santa Barbara. 2022
+[^youchoose2]:Razek, R. D. *The Other Settlers: Arabs in the American West.* UC Santa Barbara. 2022. 56-63
 
 {% include images/figure-wrap.html
   image-path="images/camel2.png"
