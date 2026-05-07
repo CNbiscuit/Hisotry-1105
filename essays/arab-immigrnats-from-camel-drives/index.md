@@ -26,9 +26,9 @@ This story starts with officials and wealthy business owners thinking about how 
   caption="The lack of efficacy of mules and inability of vehicles to traverse the unforgiving landscape pushed mine operaters to find a new solution. Source: *Last Native Camel Killed*. The Anderson Intelligencer. March 15, 1899."
 %}
 
-## Subheader 2
+## Hadji Ali and colonial immigration:
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+Hadji Ali, like the other men in his group, were recruited in the Ottoman empire and brought to the U.S alongside camels, landing shore in 1856. From there, he worked in a variety of jobs sometimes with the Army and sometimes not. Some of the jobs he had include but are not limited to: camel driver, delivery driver, Army scout, saddle maker, prospector, miner, and so on. His work with the Army was an on and off again ordeal and because of this never got a military pension only exacerbating his poverty in old age. Hadji Ali is an example of how the colonialism of the U.S west had employed underpaid racialized immigrants as a means of expanding the colonial project. 
 
 {% capture Removal_Chinese_text %}
 The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
