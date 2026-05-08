@@ -47,5 +47,3 @@ Use this section to explain how this event relates to New Mexico history. What d
 ## Concluding Subheader 4:
 
 Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
-
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
