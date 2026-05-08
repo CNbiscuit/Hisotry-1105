@@ -41,7 +41,7 @@ Hadji Ali, like the other men in his group, were recruited in the Ottoman empire
 
 ## Arab immigrants and transient relationships: 
 
-As we saw in the first paragraph much of what defined the relationship with work for Arab immigrants in the southwest was transience. One story tells of a recently immigrated Arab man who had a dissatisfactory job working as a ditch digger and happened upon a zoo walking home. He saw a man try to move a camel out of its pen for cleaning and it wouldn’t budge no matter what. The Arab began to sing to the camel and got it to move to a different pen so the previous could be cleaned. On the spot the zookeeper offers the Arab man a job for his ability to so easily move the camel. Arab immigrants and the systems around them often change on the fly in unexpected circumstances. [^youchoose3]
+As we saw in the paragraph on Hadji Ali, much of what defined the relationship with work for Arab immigrants in the southwest was transience. One story tells of a recently immigrated Arab man who had a dissatisfactory job working as a ditch digger and happened upon a zoo walking home. He saw a man try to move a camel out of its pen for cleaning and it wouldn’t budge no matter what. The Arab man began to sing to the camel and got it to move to a different pen so the previous could be cleaned. On the spot the zookeeper offers the Arab man a job for his ability to so easily move the camel. Arab immigrants and the systems around them often change on the fly in unexpected circumstances. [^youchoose3]
 
 [^youchoose3]:Nabhan, Gary Paul. *CAMEL WHISPERERS: Desert Nomads Crossing Paths.* The Journal of Arizona History 49, no. 2. 2008. 97
 
