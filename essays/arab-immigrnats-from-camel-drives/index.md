@@ -39,9 +39,9 @@ Hadji Ali, like the other men in his group, were recruited in the Ottoman empire
   caption="An example of what a camel drive may look like. Source: United States Secretary of War, Jefferson Davis. *Information Respecting the Purchase of Camels for the Purpose of Military Transportation.* Washington D.C: A. O. P. Nicholson, printer. March 15, 1899. 184"
 %}
 
-## Subheader 3 
+## Arab immigrants and transient relationships: 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+As we saw in the first paragraph much of what defined the relationship with work for Arab immigrants in the southwest was transience. One story tells of a recently immigrated Arab man who had a dissatisfactory job working as a ditch digger and happened upon a zoo walking home. He saw a man try to move a camel out of its pen for cleaning and it wouldn’t budge no matter what. The Arab began to sing to the camel and got it to move to a different pen so the previous could be cleaned. On the spot the zookeeper offers the Arab man a job for his ability to so easily move the camel. Arab immigrants and the systems around them often change on the fly in unexpected circumstances. 
 
 
 ## Concluding Subheader 4:
