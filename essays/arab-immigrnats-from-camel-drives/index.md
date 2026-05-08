@@ -45,6 +45,6 @@ As we saw in the first paragraph much of what defined the relationship with work
 
 [^youchoose3]:Nabhan, Gary Paul. *CAMEL WHISPERERS: Desert Nomads Crossing Paths.* The Journal of Arizona History 49, no. 2. 2008. 97
 
-## Concluding Subheader 4:
+## An Immigrant’s relationship the operation of their lives:
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+Much of what has defined the immigrant experience here has been circumstances and how that definition has come from the relationship of immigration and the economy. The ups and downs of the economy intertwine themselves with the lives of immigrants. The feast and famine nature of Hadji Ali’s career with the Army likely had something to do with the inconsistent revenue stream they were getting. The beginning of the civil war then was his Irish Potato Famine. Limitations from racialization as workers with specific ability and no opportunities outside of them cements the economic relationship. 
