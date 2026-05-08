@@ -43,19 +43,6 @@ Hadji Ali, like the other men in his group, were recruited in the Ottoman empire
 
 Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
 
-{% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
-  image-position="center"
-  image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
-  text=Chinese_leave_Raton_text 
-%}
-
-
-
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
-
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
 ## Concluding Subheader 4:
 
